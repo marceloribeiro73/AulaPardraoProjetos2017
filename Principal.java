@@ -1,23 +1,40 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package ex_padpro_01;
 
-/**
- *
- * @author 11151101605
- */
 public class Principal {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        Terreno terreno1 = new Terreno(10, 12, 17, 10);
-        terreno1.CompararTerrenoXCasa();
-    }
-    
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		/*
+		Bicicleta oBici = new Bicicleta();
+		 
+		Automovel oAuto = new Automovel(0);
+		
+		oBici.acelerar(12);
+		System.out.println("Velocidade da Bicicleta é "+
+							oBici.veloAtual);
+		oBici.parar();
+		System.out.println("Velocidade da Bicicleta é "+
+				oBici.veloAtual);
+		System.out.println();
+		
+		System.out.println("Combustivel é "+
+				oAuto.qtdOleo);
+		oAuto.acelerar(35);
+		System.out.println("Velocidade do Automovel é"+
+				oAuto.veloAtual);
+		
+		System.out.println("Combustivel é "+
+				oAuto.qtdOleo);
+		
+		oAuto.parar();
+		System.out.println("Velocidade do Automovel é"+
+				oAuto.veloAtual);
+		System.out.println("Combustivel é "+
+				oAuto.qtdOleo);
+		*/
+		
+		
+
+	}
+
 }
